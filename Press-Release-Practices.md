@@ -11,7 +11,11 @@ Without coverage of the historical operations taking place within the Bitshares 
 Solution
 ---------
 
-BunkerChain Labs Inc. will arrange for professionally written Press Release along with distribution for $600 bitUSD. $200 would be used towards the creation of the release, and $400 for its distribution. All press releases would be reviewed and approved by the Committee prior to its distribution via github. The editor of the release will be the same editor who operated The Nullstreet Journal.
+BunkerChain Labs Inc. will arrange for professionally written Press Release along with mass media distribution for $600 bitUSD. $200 would be used towards the creation of the release, and $400 for its distribution to major distribution channels. All press releases would be reviewed and approved by the Committee prior to its distribution via github. 
+
+The editor of the release will be the same editor who operated The Nullstreet Journal. 
+
+Distribution includes news sites like MSNBC, ABCNews.com, LATimes.com, NYTimes.com, USA Today, MarketWatch, Yahoo Finance, Reuters, MarketWatch, and possibly Bloomberg. These along with over 100 reprints and hundreds of other distributions. These distributions are meant to reach beyond the crypto-only circles to the larger media. It will require an additional $99 if we want to include Coindesk.
 
 Source of Funds
 ---------
